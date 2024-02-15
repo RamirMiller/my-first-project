@@ -1,4 +1,4 @@
 # my-first-project
 first-project
 
-Thet my first project
+That my first project
